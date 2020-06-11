@@ -1,0 +1,90 @@
+body {
+  background-color: #d4f3ef;
+  /*font-family: 'Montaga', serif;*/
+
+}
+
+img {
+  height: 150px
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 4px;
+  border-color: grey;
+  width: 5%;
+}
+
+h1 {
+  color: #0e9aa7;
+  font-family: 'Sacramento', cursive;
+  font-size: 300%;
+
+}
+
+h3 {
+  color: #0e9aa7;
+  font-family: 'Montaga', serif;
+}
+
+.exp-con{
+  position: relative;
+  left: 100px;
+display: inline-block;
+
+
+}
+.exp{position: relative;
+left: 300px;
+
+}
+
+.edu{
+  position: relative;
+  left: 600px;
+}
+.edu-con{
+  position: relative;
+  left: 400px;
+  bottom: 80px;
+display: inline-block;
+
+}
+.certi{
+  position: relative;
+  left: 600px;
+}
+.certi-con{
+  position:relative;
+left:425px;
+bottom: 80px;
+display: inline-block;
+}
+.cont{
+  text-align: center;
+  padding-top : 30px
+
+}
+.para{
+  font-family: 'Montaga', serif;
+}
+.rights{
+  text-align: center;
+  padding-top : 100px;
+}
+.image1{
+  position: relative;
+  left: 350px;
+  bottom: 50px;
+}
+.image2{
+  position: relative;
+  left: 800px;
+}
+.image3{
+  position: relative;
+  left: 350px;
+  bottom: 30px;
+  width: 120px;
+  height: 120px;
+}
